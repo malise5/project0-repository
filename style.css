@@ -1,3 +1,20 @@
 body{
-    background: grey;
+    background: white;
+}
+h1
+ {color:blue; 
+    font-size:40px;
+}
+ div
+ {font-family:verdana; 
+  font-size:20px;
+  padding-left: 2%;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+a{ cursor: pointer;
 }
